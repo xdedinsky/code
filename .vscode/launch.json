@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Applications/XAMPP/xamppfiles/htdocs/phpscript/Code/LoggedPages/TaskU1",
+      "program": "/Applications/XAMPP/xamppfiles/htdocs/phpscript/Code/LoggedPages/TaskU1/build/Debug/outDebug"
+    }
+  ]
+}
